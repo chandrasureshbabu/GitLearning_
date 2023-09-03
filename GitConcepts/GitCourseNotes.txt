@@ -20,4 +20,10 @@ start .------------ open the directory
 ls foldername ---- to getnames of the file in the folder/directory
 pwd----- gives you current directory
 cd.. ---- takes back one folder back
+touch filename.extnsn ---- will create file in the directory
+touch filename.extnsn filename.extnsn create files in the directory
+touch foldername/rocky.png-- this will create the .png in the in the respective folder
+---------------------------- make Folder/Directories--------------------
+mkdir foldername --- will create folder
+make foldername foldername -- this will create respective folders in the current directory
 
