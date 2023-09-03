@@ -26,4 +26,7 @@ touch foldername/rocky.png-- this will create the .png in the in the respective 
 ---------------------------- make Folder/Directories--------------------
 mkdir foldername --- will create folder
 make foldername foldername -- this will create respective folders in the current directory
-
+------------------------------Deleting Files----------------------------
+rm filename.extnsn--- this deletes respective file
+ls -a  -- gives hidden files
+rm -rf foldername -- deleted folders
