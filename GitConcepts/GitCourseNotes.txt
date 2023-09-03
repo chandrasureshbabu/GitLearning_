@@ -1,0 +1,23 @@
+get git username
+git config  user.name
+
+to config username
+git config --global user.name "username"
+
+to get useremail
+git config user.email
+
+to config useremail
+git config --global user.email user@gmail.com
+
+------------------------------- Commands-------------------------
+git GUI gitKraken
+GitKraken Client Tutorial: How to Use the Git GUI & CLI
+--------------------------Essential Terminal Commands----------
+ls----- contents of the folder/directory
+cd----- change directory
+start .------------ open the directory
+ls foldername ---- to getnames of the file in the folder/directory
+pwd----- gives you current directory
+cd.. ---- takes back one folder back
+
