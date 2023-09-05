@@ -30,3 +30,12 @@ make foldername foldername -- this will create respective folders in the current
 rm filename.extnsn--- this deletes respective file
 ls -a  -- gives hidden files
 rm -rf foldername -- deleted folders
+------------------------------git commands------------------------------
+git --version  --- version of the git
+git init -- initaialize the repo
+git status -- give status of repo
+
+git add filename filename1 -- to stage more than 1 files
+git add filename -- to stage
+git add * - to stage all changes/changed files in directory
+
