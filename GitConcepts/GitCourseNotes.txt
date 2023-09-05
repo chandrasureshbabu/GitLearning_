@@ -38,4 +38,6 @@ git status -- give status of repo
 git add filename filename1 -- to stage more than 1 files
 git add filename -- to stage
 git add * - to stage all changes/changed files in Directory
+git add . - to stage all changes/changed files in Directory
+
 
