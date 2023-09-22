@@ -46,4 +46,11 @@ git default editor
 git commit -command
 
 this will open up editor for lengthy commit message so type commit message and click esc key and type:wq this will route back normal mode
+we can use vs code as commit message editor instead of defult terinals 
+
+type below commond in git bash or ur terminal to launch commit message editor in the vs code
+
+git config --global core.editor "code --wait"
+
+
 
