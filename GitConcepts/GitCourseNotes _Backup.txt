@@ -50,7 +50,13 @@ we can use vs code as commit message editor instead of defult terinals
 
 type below commond in git bash or ur terminal to launch commit message editor in the vs code
 
-git config --global core.editor "code --wait"
+git config --global core.editor "code --wait" 
+
+update any file in project 
+and type git commit in bash or terminal , then commit messge editor will open  in vs code
+u can type message in vs code , save it and close
+
+and then in bash type in -- git log  this will show mesasge from vs code
 
 
 
