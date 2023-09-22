@@ -60,3 +60,6 @@ and then in bash type in -- git log  this will show mesasge from vs code
 
 
 
+You can configure git to use Visual Studio Code as the default editor for commit messages. 
+You can run the following command in the terminal: git config --global core.editor "code --wait". 
+Then, just commit it without -m and it will open a commit edit tab on VS Code where you can type in your long commit message1
