@@ -43,5 +43,7 @@ git add . - to stage all changes/changed files in Directory
 ------------------------------------------------------------------------
 
 git default editor 
-git commit -commond
+git commit -command
+
+this will open up editor for lengthy commit message so type commit message and click esc key and type:wq this will route back normal mode
 
