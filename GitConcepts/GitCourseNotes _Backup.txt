@@ -54,7 +54,7 @@ git config --global core.editor "code --wait"
 
 update any file in project 
 and type git commit in bash or terminal , then commit messge editor will open  in vs code
-u can type message in vs code , save it and close
+u can type message in vs code , save it and close, then message typed vs code will appear bash / terminal
 
 and then in bash type in -- git log  this will show mesasge from vs code
 
