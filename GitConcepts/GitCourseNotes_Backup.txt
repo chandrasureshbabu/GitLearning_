@@ -72,3 +72,8 @@ commit from gui like git kraken
 git commit --amend
 
 this amend changes to only to previous commit
+--------------------------------------------------------ignore Files
+
+we just ignore files , which are not required 
+
+
