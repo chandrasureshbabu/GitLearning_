@@ -97,11 +97,16 @@ the merge command can sometimes confuses
  --> git merge branch1(branchname)
 ---
 
--- Merging conflictsConcept from derbranch2---------------
+
+-- Merging conflictsConcept from devbranch-----
+
 
 When ever you encounter  merge conflict follow  these steps to resolve them
 
     Open up the  files with merge conflict
+    
     Edit the files  to remove the conflicts , decide with brnach contents you want to keep in each conflict, or keep both
+
     remove the conflict "marker lines" in the file
+
     add youe changes and then merge a commit
