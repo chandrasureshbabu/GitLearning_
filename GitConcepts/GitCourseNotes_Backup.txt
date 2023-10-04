@@ -71,9 +71,13 @@ commit from gui like git kraken
 --------------------------------------------------------------
 git commit --amend
 
-this amend changes to only to previous commit
+this amend changes only to previous commit
 --------------------------------------------------------ignore Files
 
 we just ignore files , which are not required 
+create .gitignore file and mention the files that are to be ignored 
+----------------------------------------------------------------------------
+branching
+
 
 

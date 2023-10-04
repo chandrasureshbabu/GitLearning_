@@ -67,7 +67,32 @@ Then, just commit it without -m and it will open a commit edit tab on VS Code wh
 -------
 
 commit from gui like git kraken
---------------------------------------------------------------
-git commit --amend
 
-this amend changes to only to previous commit
+
+
+
+----------------------------Merging the branches-------------------------------
+fast forword Merging
+git Merging and merge commits
+resolving merge conflicts
+
+
+Merging branches
+
+branches makes it super easy to work in with in self isolated environment , but often we need to merge the changes the from branche to other
+
+we can do this by using git merge command
+--> git merge branch name
+
+the merge command can sometimes confuses
+ 
+ we merge branch , not specific commits
+ we always merge to the current head branch
+
+ switch /checkout branch you want to merge the changes into(recieving branch)
+
+ --> git checkout branch2(branchname)
+ or
+ --> git switch branch2(branchname)
+ --> git merge branch1(branchname)
+---
