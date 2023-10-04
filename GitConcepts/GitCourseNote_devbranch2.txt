@@ -96,3 +96,12 @@ the merge command can sometimes confuses
  --> git switch branch2(branchname)
  --> git merge branch1(branchname)
 ---
+
+-- Merging conflictsConcept from derbranch2---------------
+
+When ever you encounter  merge conflict follow  these steps to resolve them
+
+    Open up the  files with merge conflict
+    Edit the files  to remove the conflicts , decide with brnach contents you want to keep in each conflict, or keep both
+    remove the conflict "marker lines" in the file
+    add youe changes and then merge a commit
