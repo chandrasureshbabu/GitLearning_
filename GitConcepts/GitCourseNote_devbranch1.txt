@@ -77,3 +77,12 @@ fastfowrd merging
 git merges and merge commits
 resolving merge conflicts
 
+-- Merging conflictsConcept from derbranch2---------------
+
+When ever you encounter  merge conflict follow  these steps to resolve them
+
+    Open up the  files with merge conflict
+    Edit the files  to remove the conflicts , decide with brnach contents you want to keep in each conflict, or keep both
+    remove the conflicts "marker lines" in the file
+    add youe changes and then merge a commit
+
