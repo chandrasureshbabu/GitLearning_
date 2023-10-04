@@ -69,6 +69,10 @@ Then, just commit it without -m and it will open a commit edit tab on VS Code wh
 commit from gui like git kraken
 
 
+this amend changes to only to previous commit
+
+
+
 -------------------------------Merging Branches---------------
 
 
@@ -77,12 +81,17 @@ fastfowrd merging
 git merges and merge commits
 resolving merge conflicts
 
+
 -- Merging conflictsConcept from derbranch2---------------
 
 When ever you encounter  merge conflict follow  these steps to resolve them
 
     Open up the  files with merge conflict
     Edit the files  to remove the conflicts , decide with brnach contents you want to keep in each conflict, or keep both
+
+    remove the conflict "markers" in the file
+    add youe changes and then merge a commit
+
     remove the conflicts "marker lines" in the file
     add youe changes and then merge a commit
 
