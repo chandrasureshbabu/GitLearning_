@@ -95,3 +95,4 @@ the merge command can sometimes confuses
  or
  --> git switch branch2(branchname)
  --> git merge branch1(branchname)
+---
