@@ -67,7 +67,13 @@ Then, just commit it without -m and it will open a commit edit tab on VS Code wh
 -------
 
 commit from gui like git kraken
---------------------------------------------------------------
-git commit --amend
 
-this amend changes to only to previous commit
+
+-------------------------------Merging Branches---------------
+
+
+DevBranch1
+fastfowrd merging 
+git merges and merge commits
+resolving merge conflicts
+
